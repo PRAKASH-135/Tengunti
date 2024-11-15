@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 cse
 bengaluru
 sindhnaur
 jai shri ram
 
+=======
+ghfj
+>>>>>>> demo
